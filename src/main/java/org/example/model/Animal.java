@@ -1,7 +1,7 @@
 package org.example.model;
 
 import lombok.Data;
-import org.example.interf.iSound;
+import org.example.interfaces.iSound;
 
 @Data
 public abstract class Animal implements iSound {

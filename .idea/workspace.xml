@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6c958f8e-a434-4c07-a500-fefd62da21f1" name="Changes" comment="editing" />
+    <list default="true" id="6c958f8e-a434-4c07-a500-fefd62da21f1" name="Changes" comment="editing">
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/interf/iSound.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/interfaces/iSound.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/model/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/model/Animal.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +23,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KornyushinMaksim"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="925bc99f-4b5f-4cb2-a3ca-ef3abca45845" />
+        <option name="url" value="https://github.com/KornyushinMaksim/dz_1.1_SB.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -90,7 +107,23 @@
       <option name="project" value="LOCAL" />
       <updated>1711392879628</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="editing">
+      <option name="closed" value="true" />
+      <created>1711392939240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711392939240</updated>
+    </task>
+    <task id="LOCAL-00003" summary="editing">
+      <option name="closed" value="true" />
+      <created>1711393135632</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711393135632</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
