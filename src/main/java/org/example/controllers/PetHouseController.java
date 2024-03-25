@@ -17,6 +17,7 @@ public class PetHouseController {
         petHouseController.createAnimal(name, age, breed);
     }
 
+
     public List<Animal> viewAnimals() {
         return petHouseController.viewAnimals();
     }

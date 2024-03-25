@@ -9,4 +9,5 @@ public interface PetHouseRepository {
     List<Animal> viewAnimals();
     void updateAnimal(String name, int age, String breed, int index);
     void deleteAnimal(String name);
+
 }

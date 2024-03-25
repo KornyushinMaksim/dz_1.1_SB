@@ -2,10 +2,8 @@ package org.example.configurtions;
 
 import lombok.Data;
 import org.example.model.Cat;
-import org.example.model.PetHouse;
 import org.example.services.PetHouseService;
 import org.springframework.context.annotation.Bean;
-import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
