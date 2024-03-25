@@ -1,2 +1,5 @@
-package org.example.interf;public interface iSound {
+package org.example.interf;
+
+public interface iSound {
+    String sound();
 }

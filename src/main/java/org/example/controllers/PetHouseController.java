@@ -1,15 +1,23 @@
 package org.example.controllers;
 
+import org.example.model.Animal;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Controller;
 
-@Controller
+import java.util.List;
 
-public class PetController {
+@Controller
+@Component("phc")
+public class PetHouseController {
     @Autowired
-    private PetController petController;
+    private PetHouseController petHouseController;
 
     public void createAnimal(String name, int age, String breed) {
-        petController.createAnimal(name, age, breed);
+        petHouseController.createAnimal(name, age, breed);
+    }
+
+    public List<Animal> viewAnimals() {
+        return petHouseController.viewAnimals();
     }
 }
